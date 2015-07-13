@@ -1,0 +1,6 @@
+.idea
+*.iml
+*.bak
+googlemaps-markerclustererplus/target/
+googlemaps-markerclustererplus-demo/target/
+googlemaps-markerclustererplus-demo/src/main/webapp/VAADIN/

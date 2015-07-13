@@ -127,7 +127,7 @@
                         <manifestEntries>
                             <Vaadin-Package-Version>1</Vaadin-Package-Version>
                             <Vaadin-License-Title>${Vaadin-License-Title}</Vaadin-License-Title>
-                            <Vaadin-Widgetsets>com.vaadin.tapio.googlemaps.markerclusterplus.WidgetSet
+                            <Vaadin-Widgetsets>com.vaadin.tapio.googlemaps.markerclustererplus.WidgetSet
                             </Vaadin-Widgetsets>
                         </manifestEntries>
                     </archive>

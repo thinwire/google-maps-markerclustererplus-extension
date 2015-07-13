@@ -4,5 +4,5 @@
 <module>
     <inherits name="com.vaadin.tapio.googlemaps.Widgetset"/>
     <inherits name="com.vaadin.DefaultWidgetSet"/>
-    <inherits name="com.vaadin.tapio.googlemaps.MarkerClustererPlusWidgetSet"/>
+    <inherits name="com.vaadin.tapio.googlemaps.markerclustererplus.WidgetSet"/>
 </module>
